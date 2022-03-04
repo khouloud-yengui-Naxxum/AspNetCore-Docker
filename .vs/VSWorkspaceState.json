@@ -1,13 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\bin\\Debug",
-    "\\bin\\Debug\\net6.0",
     "\\obj",
-    "\\obj\\Debug",
     "\\obj\\Debug\\net6.0",
+    "\\Pages",
     "\\wwwroot"
   ],
-  "SelectedNode": "\\Dockerfile",
+  "SelectedNode": "\\Pages\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
